@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<br/>
 I'm an IT Undergraduate:mortar_board:,
-Intresting in programming:computer:
 <br/>
+Intresting in programming:computer:
 <br/>
 
 SKILLS
@@ -24,13 +23,9 @@ Databases:
 <br/>
 ![1012821_code_development_logo_mysql_icon](https://user-images.githubusercontent.com/46352484/126873582-654b1a06-230c-4657-8173-77187fefac80.png)
 ![mongodb_logo_icon_170944](https://user-images.githubusercontent.com/46352484/126873629-e88552f9-05af-40b2-9408-29cc9396cc83.png)
-
-
-<br/>
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindu-chethani&layout=compact&theme=radical)](https://github.comkavindu-chethani/github-readme-stats)
-
 <br/>
 
 ![kavindu-chethani's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavindu-chethani&show_icons=true&theme=radical)

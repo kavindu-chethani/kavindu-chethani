@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an IT Undergraduate:mortar_board:,
+I'm an SLIIT IT Undergraduate:mortar_board:,
 <br/>
 Intresting in programming:computer:
 <br/>

@@ -25,8 +25,8 @@ Programming Languages,Tools, Databases and Frameworks:
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindu-chethani&layout=compact&theme=radical)](https://github.comkavindu-chethani/github-readme-stats)
+
 <br/>
 
-![kavindu-chethani's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavindu-chethani&show_icons=true&theme=radical)
+
 

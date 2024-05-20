@@ -2,7 +2,7 @@
 
 I'm an SLIIT IT Undergraduate
 <br/>
-Intresting in programming:computer:
+Intresting in programming
 <br/>
 My Portfolio: https://kavindu-chethani.vercel.app/
 <br/>

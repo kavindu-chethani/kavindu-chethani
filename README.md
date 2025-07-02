@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an SLIIT IT Undergraduate
+I'm an SLIIT IT graduated
 <br/>
 Intresting in programming
 <br/>
